@@ -1,0 +1,14 @@
+
+
+
+
+.header{
+  width: 100%;
+  border: black dotted 2px;
+}
+
+.FrontNewsReel{
+  width: 40%;
+  border: black dotted 2px;
+  height: 500px;
+}
